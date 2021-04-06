@@ -32,6 +32,7 @@ Bu projede sizden belirlediğiniz bir zaman aralığı kadar geri sayım yapıp,
 
 ![img](figures/PomodoroBot3.jpg)
 
-## -[Form Linki][formlink]
+## Proje Yükleme Linki
 - https://forms.gle/uxmQhRN851E4NXnW6
-[formlink]: https://forms.gle/uxmQhRN851E4NXnW6
+
+Kolay gelsin ⚡🌱📕
