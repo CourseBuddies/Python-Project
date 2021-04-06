@@ -2,10 +2,10 @@
 
 Öğrenme sürecinizin son aşaması olan projelere hoş geldiniz. Sizden isteğimiz aşağıda belirtilen 3 projeden birini seçip ekipçe üzerine kafa yorarak geliştirmeniz. 
 
-Projeler:
-Taş Kağıt Makas Oyunu
-Zamanlayıcı Discord Botu
-Saat Uygulaması
+## Projeler:
+* Taş Kağıt Makas Oyunu
+* Zamanlayıcı Discord Botu
+* Saat Uygulaması
 
 ![image-20210406121800814](figures/TasKagitMakas2.jpg)
 
