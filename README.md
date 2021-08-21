@@ -2,7 +2,6 @@
 
 Öğrenme sürecinizin son aşaması olan projelere hoş geldiniz. Sizden isteğimiz aşağıda belirtilen 3 projeden birini seçip ekipçe üzerine kafa yorarak geliştirmeniz. 
 
-## Taş Kağıt Makas
 
 Bilgisayara karşı çalışan bir Taş, Kağıt, Makas oyunu. Bu projede **random** kütüphanesini kullanmanızı tavsiye ediyoruz.
 
